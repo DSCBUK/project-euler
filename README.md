@@ -67,3 +67,4 @@ If you'll like to improve your Git Skill, please [click here](https://www.codeca
 |49|Prime permutations|49635|
 |50|Consecutive prime sum|53451|
 
+Click here to access [Project Euler's Archive](https://projecteuler.net/archives)
